@@ -2,7 +2,7 @@
 UI Clone - Discord
 </h1>
 
-<center> <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU"> UI Clone - Discord - Rocketseat </a> </center>
+<a href="https://www.youtube.com/watch?v=x4FdZd2-_uU"> UI Clone - Discord - Rocketseat </a> 
 
 <hr>
 
